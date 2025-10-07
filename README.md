@@ -33,7 +33,7 @@ Each section provides unique perspectives on the data to support data-driven dec
 - Analysis includes:
   - Top-selling products  
   - Monthly and daily sales performance  
-  - Store-wise and category-wise insights
+  - City-wise and category-wise insights
 
 ---
 
