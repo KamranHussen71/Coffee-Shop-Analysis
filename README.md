@@ -26,7 +26,7 @@ Each platform — **Excel**, **Power BI**, **Python**, and **SQL** — provides 
 
 ---
 
-### 3. 🐍 PYTHON_ANALYSIS
+### 3. 💻 PYTHON_ANALYSIS
 - Performed **data cleaning, preprocessing, and exploratory data analysis (EDA)** using `Pandas`, `NumPy`, `Matplotlib`, and `Seaborn`.  
 - Analyzed **top-selling products**, **hourly and monthly trends**, and **profitability metrics**.  
 - Created visualizations to identify sales patterns and high-performing categories.
